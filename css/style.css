@@ -523,7 +523,7 @@ a.tooltip {
   display: inline-block;
   transition: all 0.4s ease;
   -webkit-transition: all 0.4s ease;
-  background-color: #fff;
+  background-color: transparent;
   position: relative;
 }
 
