@@ -121,6 +121,13 @@
   font-family: "Prelo_extra_bold", sans-serif;
 }
 
+.titulo3 {
+  text-align: left;
+  font-size: 1.5rem;  
+  color: #666666; /*cor fixa, não necessita variável */
+  font-family: "Prelo_extra_bold", sans-serif;
+}
+
 .chapter-description {
   font-size: 18px;
   font-family: "proxima_novaregular", sans-serif;
@@ -347,6 +354,10 @@ tbody tr td:first-child {
   font-family: "proxima_novalight";
   padding: 4px 0;
   color: #000;
+}
+
+.type-none {
+  list-style-type:none;
 }
 
 .resposta p {
@@ -958,9 +969,9 @@ label img {
   width: 200px;
 }
 
-.boxe-arte-leitura p {
+/* .boxe-arte-leitura p {
   margin: 0;
-}
+} */
 
 .boxe-arte-leitura .double-columned-content {
   align-items: initial;
