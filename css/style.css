@@ -285,6 +285,35 @@ thead tr td {
   text-transform: uppercase;
 }
 
+.table-mat {
+  text-align: center;
+  margin: 1rem auto;
+  min-width: 400px;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.table-mat tr td:first-child{
+  background: var(--color-mat-d3);
+  color: var(--color-mat-d1);
+  font-family: "proxima_novabold";
+  font-weight: bold;
+}
+
+.table-mat thead tr th{
+  background-color: var(--color-mat-d1);
+  color: #ffffff;
+  text-transform: uppercase;
+  width: 160px;
+
+}
+
+.table-mat thead tr th:first-child{
+  background-color: transparent;
+  border: none;
+
+}
+
 .tg-0lax {
   text-align: center;
   font-family: "proxima_novalight";
