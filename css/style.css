@@ -108,6 +108,13 @@
   padding: 0.25rem 0.5rem;
 }
 
+.box-math-alert {
+  background-color: var(--color-mat-d3);  
+  color: #333;
+  padding: 0.25rem;
+  text-align: center;
+}
+
 .titulo1 {
   text-align: left;
   font-size: 2rem;
@@ -1015,5 +1022,11 @@ label img {
 }
 
 .img-inline {
+  margin-bottom: -0.75rem;
+  display: inline-block;
+}
+
+.img-inline-lg {
+  margin-bottom: -2.3rem;
   display: inline-block;
 }
