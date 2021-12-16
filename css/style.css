@@ -1008,7 +1008,8 @@ label img {
 }
 
 .custom-table-soc {
-  font-weight: 600;
+  font-weight: 500;
+  font-size: 14px;
   text-align: center;
   font-family: "proxima_novaregular";
   border-spacing: 0px;
@@ -1024,6 +1025,6 @@ label img {
 }
 
 .custom-table-soc .custom-td-2 {
-  color: var(--color-soc-d1);
+  color: #ffffff;
   background: var(--color-soc-d4);
 }
