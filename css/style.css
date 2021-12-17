@@ -145,7 +145,7 @@
 }
 
 .titulo-cap-background {
-  background: linear-gradient(90deg, var(--color-soc-d1) 0%, #64428c80 100%);
+  background: linear-gradient(90deg, var(--color-soc-d1) 0%, var(--color-soc-d4) 100%);
   display: flex;
   align-items: center;
   padding-left: 16px;
